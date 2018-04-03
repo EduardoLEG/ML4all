@@ -2,8 +2,8 @@
 layout: post
 title:  "Introdução"
 date:   2015-04-18 08:43:59
-author: Ben Centra
-categories: Teoria
+author: Eduardo
+categories: Teoria1
 ---
 
 Teste
