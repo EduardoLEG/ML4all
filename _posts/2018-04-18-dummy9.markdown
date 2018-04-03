@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Aula 9"
-date:   2015-04-18 08:00:08
+date:   2015-04-18 08:00:09
 author: Eduardo Vargas Ferreira
 categories: [Redes Neurais Artificiais]
 ---
