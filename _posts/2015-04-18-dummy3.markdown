@@ -6,7 +6,6 @@ author: Eduardo Ferreira
 categories: Introdução
 ---
 
-[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
-
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zAlX1V3lK5s?autoplay=1"> </iframe>
+</center>
