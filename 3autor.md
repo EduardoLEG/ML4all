@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Autor
-permalink: /about/
+permalink: /3autor/
 ---
 
 <img src="{{ site.baseurl }}/assets/profile-placeholder.gif" title="Profile Picture" class="profile">
