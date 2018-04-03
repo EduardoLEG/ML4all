@@ -3,7 +3,7 @@ layout: post
 title:  "Aula 2"
 date:   2015-04-18 08:00:02
 author: Eduardo Vargas Ferreira
-categories: 'Métodos de reamostragem'
+categories: [Métodos de reamostragem]
 ---
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zAlX1V3lK5s?autoplay=0"> </iframe>
