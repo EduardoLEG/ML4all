@@ -11,10 +11,10 @@ exclude:
 # Site settings
 title: Introdução ao Machine Learning
 subtitle: "Laboratório de Estatística e Geoinformação - LEG/UFPR"
-email: eduardo.vargas.ferreira@gmail.com
+email: e.ferreira@ufpr.br
 name: Eduardo Vargas Ferreira
 description: >
-  Laboratório de Estatística e Geoinformação - LEG/UFPR
+ LEG/UFPR
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
