@@ -3,7 +3,7 @@ layout: post
 title:  "Introdução"
 date:   2015-04-18 08:43:59
 author: Eduardo
-categories: 
+categories: Teoria
 ---
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
