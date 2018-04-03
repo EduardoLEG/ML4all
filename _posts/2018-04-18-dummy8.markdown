@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Aula 8"
+date:   2015-04-18 08:00:08
+author: Eduardo Vargas Ferreira
+categories: [Aprendizado não supervisionado]
+---
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAlX1V3lK5s?autoplay=0"> </iframe>
+</center>
