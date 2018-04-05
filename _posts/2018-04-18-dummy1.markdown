@@ -6,5 +6,5 @@ author: Eduardo Ferreira
 categories: Introdução
 ---
 <center>
-<iframe width="760" height="515" src="https://www.youtube.com/embed/zAlX1V3lK5s?autoplay=0"> </iframe>
+<iframe width="960" height="715" src="https://www.youtube.com/embed/zAlX1V3lK5s?autoplay=0"> </iframe>
 </center>
