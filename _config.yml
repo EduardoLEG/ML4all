@@ -9,7 +9,7 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Introdução ao Machine Learning
+title: Machine Learning para Cientista de Dados
 subtitle: "Laboratório de Estatística e Geoinformação - LEG/UFPR"
 email: e.ferreira@ufpr.br
 name: Eduardo Vargas Ferreira
