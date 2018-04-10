@@ -5,6 +5,15 @@ date:   2015-04-18 08:00:08
 author: Eduardo Vargas Ferreira
 categories: [Aprendizado não supervisionado]
 ---
+
+<h3>Aprendizado não supervisionado</h3>
+  <ul>
+  <li>Análise de componentes principais;</li>
+  <li>K-means Clustering;</li>
+  <li>Hierarchical Clustering;</li>
+  <li>DBSCAN.</li>		
+</ul>
+
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zAlX1V3lK5s?autoplay=0"> </iframe>
 </center>
