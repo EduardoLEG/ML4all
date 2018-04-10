@@ -5,6 +5,15 @@ date:   2015-04-18 08:00:06
 author: Eduardo Vargas Ferreira
 categories: [Classificação]
 ---
+
+<h3>Métodos baseados em árvores</h3>
+  <ul>
+  <li>Árvores de decisão;</li>
+  <li>Randon Forest;</li>
+  <li>Bootstrap Aggregation (Bagging);</li>
+  <li>Boosting.</li>		
+</ul>
+
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zAlX1V3lK5s?autoplay=0"> </iframe>
 </center>
