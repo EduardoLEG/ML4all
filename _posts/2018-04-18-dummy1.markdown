@@ -5,6 +5,14 @@ date:   2015-04-18 08:00:01
 author: Eduardo Ferreira
 categories: Introdução
 ---
+
+<h3>Introdução</h3>
+  <ul>
+  <li>Machine Learning na prática;</li>
+  <li>Aprendizado supervisionado e não supervisionado;</li>
+  <li>Função custo;</li>
+</ul>
+
 <center>
 <iframe width="760" height="515" src="https://www.youtube.com/embed/zAlX1V3lK5s?autoplay=0"> </iframe>
 </center>
