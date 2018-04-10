@@ -5,6 +5,15 @@ date:   2015-04-18 08:00:05
 author: Eduardo Vargas Ferreira
 categories: [Métodos baseados em árvores]
 ---
+
+<h3>Classificação</h3>
+  <ul>
+  <li>Regressão logística;</li>
+  <li>Análise de discriminante linear;</li>
+  <li>Análise de discriminante quadrática;</li>
+  <li>Naive Bayes.</li>
+</ul>
+
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zAlX1V3lK5s?autoplay=0"> </iframe>
 </center>
