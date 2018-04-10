@@ -5,6 +5,14 @@ date:   2015-04-18 08:00:09
 author: Eduardo Vargas Ferreira
 categories: [Redes Neurais Artificiais]
 ---
+
+<h3>Redes Neurais Artificiais</h3>
+  <ul>
+  <li>Introdução;</li>
+  <li>Backpropagation algorithm;</li>
+  <li>Aplicações.</li>
+</ul> 
+
 <center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zAlX1V3lK5s?autoplay=0"> </iframe>
 </center>
