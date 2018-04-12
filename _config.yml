@@ -14,7 +14,7 @@ subtitle: ""to make great leaps in data science research in order to change the 
 email: e.ferreira@ufpr.br
 name: Eduardo Vargas Ferreira
 description: >
- LEG/UFPR
+ <a href="http://www.leg.ufpr.br/doku.php">LEG/UFPR</a>
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
