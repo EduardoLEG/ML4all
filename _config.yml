@@ -10,11 +10,11 @@ exclude:
 
 # Site settings
 title: Machine Learning para Cientista de Dados
-subtitle: ""to make great leaps in data science research in order to change the world for the better""
+subtitle: " 'to make great leaps in data science research in order to change the world for the better' "
 email: e.ferreira@ufpr.br
 name: Eduardo Vargas Ferreira
 description: >
- <a href="http://www.leg.ufpr.br/doku.php">LEG/UFPR</a>
+ LEG/UFPR
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
