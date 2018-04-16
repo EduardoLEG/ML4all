@@ -13,6 +13,23 @@ categories: [Redes Neurais Artificiais]
   <li>Aplicações.</li>
 </ul> 
 
-<center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAlX1V3lK5s?autoplay=0"> </iframe>
-</center>
+# Introdução #
+
+As Redes Neurais Artificiais (RNA’s) foram inspiradas no sistema neural biológico. Neste capítulo vamos tratar do assunto de forma puramente estatística sem fazer qualquer analogia ao funcionamento cerebral biológico.
+
+
+
+# Intuição do backpropagation #
+
+A ideia do algoritmo de *backpropagation* é calcular o gradiente das expressões através da aplicação da **regra da cadeia**. Entender esse aspecto é o ponto crucial para compreender o funcionamento das RNA’s. 
+
+1) **Derivadas parciais** 
+
+Suponha que desejamos calcular as derivadas parciais de $f(x,y) = xy$:
+$$
+f(x,y) = x y \hspace{0.5in} \rightarrow \hspace{0.5in} \frac{\partial f}{\partial x} = y \hspace{0.5in} \frac{\partial f}{\partial y} = x 
+$$
+Considerando, por exemplo, que $x=4$ e $y=-3$, temos $f(x,y) = -12$. A derivada parcial com relação a $x$ é $\frac{\partial f}{\partial x} = -3$, e nos indica que o aumento de $x$ em uma unidade, acarreta um decréscimo de $-3$ em $f$. Trata-se de uma taxa de variação. Outros exemplos de derivadas parciais úteis ao nosso propósito são:
+
+* $f(x,y) = x + y \hspace{0.5in} \rightarrow \hspace{0.5in} \frac{\partial f}{\partial x} = 1 \hspace{0.5in} \frac{\partial f}{\partial y} = 1$
+
