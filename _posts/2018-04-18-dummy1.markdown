@@ -21,6 +21,6 @@ categories: Introdução
 <a href="#" Type="BUTTON" class="next">Next &raquo;</a>
 
 <FORM>
-<INPUT Type="BUTTON" align="left" Value="Próximo vídeo" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/'">
+<INPUT Type="BUTTON" align="left" Value="Próximo vídeo &raquo;" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/'">
 </FORM>
   
