@@ -17,7 +17,14 @@ categories: Introdução
 <iframe width="760" height="515" src="https://www.youtube.com/embed/zAlX1V3lK5s?autoplay=0"> </iframe>
 </center>
 
-<FORM>
-<INPUT Type="BUTTON" Value="Próximo vídeo" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/'">
-</FORM>
+<div class="row">
+  <div class="column"><FORM>
+<INPUT Type="BUTTON" align="left" Value="Próximo vídeo" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/'">
+</FORM></div>
+  <div class="column"><FORM>
+<INPUT Type="BUTTON" align="right" Value="Próximo vídeo" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/'">
+</FORM></div>
+</div>
+
+
   
