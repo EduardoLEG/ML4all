@@ -17,8 +17,10 @@ categories: Introdução
 <iframe width="760" height="515" src="https://www.youtube.com/embed/zAlX1V3lK5s?autoplay=0"> </iframe>
 </center>
 
-<a href="#" class="previous">&laquo; Previous</a>
-<a href="#" class="next">Next &raquo;</a>
+<a href="#" Type="BUTTON" align="left" class="previous">&laquo; Previous</a>
+<a href="#" Type="BUTTON" class="next">Next &raquo;</a>
 
-
+<FORM>
+<INPUT Type="BUTTON" align="left" Value="Próximo vídeo" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/'">
+</FORM>
   
