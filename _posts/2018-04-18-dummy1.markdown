@@ -20,7 +20,9 @@ categories: Introdução
 <a href="#" Type="BUTTON" align="left" class="previous">&laquo; Previous</a>
 <a href="#" Type="BUTTON" class="next">Next &raquo;</a>
 
+
 <FORM>
+<INPUT Type="BUTTON" align="left" Value="&laquo; Voltar &raquo;" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/'">
 <INPUT Type="BUTTON" align="left" Value="Próximo vídeo &raquo;" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/'">
 </FORM>
   
