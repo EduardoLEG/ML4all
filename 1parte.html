@@ -4,47 +4,123 @@ title: "Parte 1"
 permalink: /1parte/
 ---
 
-{% for category in site.categories %}
-  {% capture cat %}{{ category | first }}{% endcapture %}
-  <h2 id="{{cat}}">{{ cat | capitalize }}</h2>
-  {% for desc in site.descriptions %}
-    {% if desc.cat == cat %}
-      <p class="desc"><em>{{ desc.desc }}</em></p>
-    {% endif %}
-  {% endfor %}
-  <ul class="posts-list">
-  {% for post in site.categories[cat] %}
-    <li>
-      <strong>
-        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </strong>
-      <span class="post-date">- {{ post.date | date_to_long_string }}</span>
-    </li>
-  {% endfor %}
-  </ul>
-  {% if forloop.last == false %}<hr>{% endif %}
-{% endfor %}
-<br>
-
-
-<h2 id="{{cat}}">Teste</h2>
+ <h2 id="{{cat}}">Introdução</h2>
   
-      <p class="desc"><em>Aula</em></p>
- 
-  
- <br>
-
- <h2 id="{{cat}}">Teste1</h2>
-  
-      <p class="desc"><em>Aula1</em></p>
- 
   <ul class="posts-list">
    <li>
       <strong>
 				<link href="/blob/master/_posts/Redes_Neurais.html" rel="stylesheet">
         <a href="http://rawgit.com/EduardoLEG/ML4all/blob/master/_posts/Redes_Neurais.html">Teste20</a>
-				<a href="https://eduardoleg.github.io/ML4all/introdu%C3%A7%C3%A3o/2015/04/18/dummy1.html">Teste21</a>
-      </strong>
+	    </strong>
     </li>
   </ul>
  <br>
+
+ <h2 id="{{cat}}">Métodos de reamostragem</h2>
+  
+  <ul class="posts-list">
+   <li>
+      <strong>
+				<link href="/blob/master/_posts/Redes_Neurais.html" rel="stylesheet">
+        <a href="http://rawgit.com/EduardoLEG/ML4all/blob/master/_posts/Redes_Neurais.html">Teste20</a>
+	    </strong>
+    </li>
+  </ul>
+ <br>
+
+ <h2 id="{{cat}}">Aprendizado não supervisionado</h2>
+  
+  <ul class="posts-list">
+   <li>
+      <strong>
+				<link href="/blob/master/_posts/Redes_Neurais.html" rel="stylesheet">
+        <a href="http://rawgit.com/EduardoLEG/ML4all/blob/master/_posts/Redes_Neurais.html">Teste20</a>
+	    </strong>
+    </li>
+  </ul>
+ <br>
+
+ <h2 id="{{cat}}">Classificação</h2>
+  
+  <ul class="posts-list">
+   <li>
+      <strong>
+				<link href="/blob/master/_posts/Redes_Neurais.html" rel="stylesheet">
+        <a href="http://rawgit.com/EduardoLEG/ML4all/blob/master/_posts/Redes_Neurais.html">Teste20</a>
+	    </strong>
+    </li>
+  </ul>
+ <br>
+
+ <h2 id="{{cat}}">Regularização</h2>
+  
+  <ul class="posts-list">
+   <li>
+      <strong>
+				<link href="/blob/master/_posts/Redes_Neurais.html" rel="stylesheet">
+        <a href="http://rawgit.com/EduardoLEG/ML4all/blob/master/_posts/Redes_Neurais.html">Teste20</a>
+	    </strong>
+    </li>
+  </ul>
+ <br>
+
+ <h2 id="{{cat}}">Métodos baseados em árvores</h2>
+  
+  <ul class="posts-list">
+   <li>
+      <strong>
+				<link href="/blob/master/_posts/Redes_Neurais.html" rel="stylesheet">
+        <a href="http://rawgit.com/EduardoLEG/ML4all/blob/master/_posts/Redes_Neurais.html">Teste20</a>
+	    </strong>
+    </li>
+  </ul>
+ <br>
+
+ <h2 id="{{cat}}">Support vector machines</h2>
+  
+  <ul class="posts-list">
+   <li>
+      <strong>
+				<link href="/blob/master/_posts/Redes_Neurais.html" rel="stylesheet">
+        <a href="http://rawgit.com/EduardoLEG/ML4all/blob/master/_posts/Redes_Neurais.html">Teste20</a>
+	    </strong>
+    </li>
+  </ul>
+ <br>
+
+ <h2 id="{{cat}}">Gradiente descendente</h2>
+  
+  <ul class="posts-list">
+   <li>
+      <strong>
+				<link href="/blob/master/_posts/Redes_Neurais.html" rel="stylesheet">
+        <a href="http://rawgit.com/EduardoLEG/ML4all/blob/master/_posts/Redes_Neurais.html">Teste20</a>
+	    </strong>
+    </li>
+  </ul>
+ <br>
+
+ <h2 id="{{cat}}">Redes neurais artificiais</h2>
+  
+  <ul class="posts-list">
+   <li>
+      <strong>
+				<link href="/blob/master/_posts/Redes_Neurais.html" rel="stylesheet">
+        <a href="http://rawgit.com/EduardoLEG/ML4all/blob/master/_posts/Redes_Neurais.html">Teste20</a>
+	    </strong>
+    </li>
+  </ul>
+ <br>
+
+ <h2 id="{{cat}}">Dicas finais</h2>
+  
+  <ul class="posts-list">
+   <li>
+      <strong>
+				<link href="/blob/master/_posts/Redes_Neurais.html" rel="stylesheet">
+        <a href="http://rawgit.com/EduardoLEG/ML4all/blob/master/_posts/Redes_Neurais.html">Teste20</a>
+	    </strong>
+    </li>
+  </ul>
+ <br>
+
