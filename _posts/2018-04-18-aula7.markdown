@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aula 7"
+title:  "Amostras de treinamento, validação e teste"
 date:   2015-04-18 08:00:07
 author: Eduardo Vargas Ferreira
 categories: Reamostragem
