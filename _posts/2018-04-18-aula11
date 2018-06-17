@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "K-means, cluster hierárquico"
+date:   2015-04-18 08:00:11
+author: Eduardo Vargas Ferreira
+categories: Nsupervisionado 
+---
+
+<center>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/lBdaU9lvtJg?autoplay=0"> </iframe>
+</center>
+
+
+<FORM>
+<INPUT Type="BUTTON" align="left" Value="&laquo; Voltar" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/1parte/'">
+<INPUT Type="BUTTON" align="left" Value="Próxima aula &raquo;" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/'">
+</FORM>
