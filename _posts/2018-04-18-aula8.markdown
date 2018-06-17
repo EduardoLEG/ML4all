@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aula 8"
+title:  "Validação cruzada k-fold"
 date:   2015-04-18 08:00:08
 author: Eduardo Vargas Ferreira
 categories: Reamostragem
