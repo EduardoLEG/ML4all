@@ -3,17 +3,15 @@ layout: post
 title:  "Aula 5"
 date:   2015-04-18 08:00:05
 author: Eduardo Vargas Ferreira
-categories: [Métodos baseados em árvores]
+categories: Introducao
 ---
 
-<h3>Classificação</h3>
-  <ul>
-  <li>Regressão logística;</li>
-  <li>Análise de discriminante linear;</li>
-  <li>Análise de discriminante quadrática;</li>
-  <li>Naive Bayes.</li>
-</ul>
-
 <center>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zAlX1V3lK5s?autoplay=0"> </iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/KfeqWODJbN0?autoplay=0"> </iframe>
 </center>
+
+
+<FORM>
+<INPUT Type="BUTTON" align="left" Value="&laquo; Voltar" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/1parte/'">
+<INPUT Type="BUTTON" align="left" Value="Próxima aula &raquo;" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/'">
+</FORM>
