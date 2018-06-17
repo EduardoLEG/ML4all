@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aula 5"
+title:  "Tipos de função custo"
 date:   2015-04-18 08:00:05
 author: Eduardo Vargas Ferreira
 categories: Introducao
