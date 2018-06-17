@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Aula 1"
-date:   2015-04-18 08:00:01
+date:   
 author: Eduardo Vargas Ferreira
 categories: Introdução
 ---
