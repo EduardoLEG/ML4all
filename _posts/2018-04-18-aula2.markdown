@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Aula 2"
+title:  "Definição dos objetivos"
 date:   2015-04-18 08:00:02
 author: Eduardo Vargas Ferreira
 categories: Introducao
 ---
 
 <center>
-<iframe width="760" height="515" src="https://www.youtube.com/embed/KfeqWODJbN0?autoplay=0"> </iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/DUP6xi2sW0M?autoplay=0"> </iframe>
 </center>
 
 
