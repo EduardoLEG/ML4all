@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "O que é Machine Learning?"
+title:  "O que é Machine Learning"
 date:   2015-04-18 08:00:01
 author: Eduardo Vargas Ferreira
 categories: Introducao
