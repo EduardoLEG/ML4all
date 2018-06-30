@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "O que é Machine Learning?"
+title:  "Gradiente boosting"
 date:   2015-04-18 08:00:25
 author: Eduardo Vargas Ferreira
 categories: gradiente
