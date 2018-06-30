@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Seleção do parâmetro de tuning e Regressão com componentes principais"
+title:  "Seleção dos parâmetros de tuning e Regressão com componentes principais"
 date:   2015-04-18 08:00:18
 author: Eduardo Vargas Ferreira
 categories: regularizacao 
