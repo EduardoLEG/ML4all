@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Aula 3"
+title:  "Dados faltantes e criação de características"
 date:   2015-04-18 08:00:03
 author: Eduardo Vargas Ferreira
 categories: Introducao
 ---
 
 <center>
-<iframe width="760" height="515" src="https://www.youtube.com/embed/KfeqWODJbN0?autoplay=0"> </iframe>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/GzL8SZ36Jjo?autoplay=0"> </iframe>
 </center>
 
 
