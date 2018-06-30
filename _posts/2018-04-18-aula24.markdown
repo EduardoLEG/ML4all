@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Gradiente descendente batch e estocástico"
+date:   2015-04-18 08:00:24
+author: Eduardo Vargas Ferreira
+categories: gradiente
+---
+
+<center>
+<iframe width="760" height="515" src="https://www.youtube.com/embed/g1aPYwdPHV8?autoplay=0"> </iframe>
+</center>
+
+
+<FORM>
+<INPUT Type="BUTTON" align="left" Value="&laquo; Voltar" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/1parte/'">
+<INPUT Type="BUTTON" align="left" Value="Próxima aula &raquo;" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/'">
+</FORM>
