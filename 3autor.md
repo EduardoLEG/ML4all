@@ -8,5 +8,3 @@ permalink: /3autor/
 
 Possui Graduação (2011) e Mestrado (2014) em Estatística pela Universidade Estadual de Campinas - UNICAMP. Atualmente é Professor do Departamento de Estatística da Universidade Federal do Paraná e membro do Laboratório de Estatística e Geoinformação - LEG/UFPR.
 
-<a href="http://lattes.cnpq.br/6295059687055801"><img src="https://raw.githubusercontent.com/EduardoLEG/eduardoleg_site/master/assets/img/curriculo_lattes1.png" height="10" width="20"></a>
-
