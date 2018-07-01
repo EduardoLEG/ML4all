@@ -10,6 +10,6 @@ Possui Graduação (2011) e Mestrado (2014) em Estatística pela Universidade Es
 
 <center> 
      <figure>
-	    <a href="http://lattes.cnpq.br/6295059687055801"><img src="https://raw.githubusercontent.com/EduardoLEG/eduardoleg_site/master/assets/img/curriculo_lattes1.png" width="7"></a>
+	    <a href="http://lattes.cnpq.br/6295059687055801"><img src="https://raw.githubusercontent.com/EduardoLEG/eduardoleg_site/master/assets/img/curriculo_lattes1.png" width="10"></a>
      </figure>
 </center>
