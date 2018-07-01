@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Eduardo Vargas Ferreira
+title: Autor
 permalink: /3autor/
 ---
 
