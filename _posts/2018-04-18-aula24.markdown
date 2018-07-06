@@ -12,6 +12,6 @@ categories: gradiente
 
 
 <FORM>
-<INPUT Type="BUTTON" align="left" Value="&laquo; Voltar" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/1parte/'">
-<INPUT Type="BUTTON" align="left" Value="Próxima aula &raquo;" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/gradiente/2015/04/18/aula25.html'">
+<INPUT Type="BUTTON" align="left" Value="&laquo; Voltar" Onclick="window.location.href='{{ site.baseurl }}/1parte/'">
+<INPUT Type="BUTTON" align="left" Value="Próxima aula &raquo;" Onclick="window.location.href='{{ site.baseurl }}/gradiente/2015/04/18/aula25.html'">
 </FORM>
