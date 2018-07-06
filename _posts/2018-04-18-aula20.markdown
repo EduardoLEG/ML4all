@@ -13,6 +13,6 @@ categories: arvores
 
 
 <FORM>
-<INPUT Type="BUTTON" align="left" Value="&laquo; Voltar" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/1parte/'">
-<INPUT Type="BUTTON" align="left" Value="Próxima aula &raquo;" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/arvores/2015/04/18/aula21.html'">
+<INPUT Type="BUTTON" align="left" Value="&laquo; Voltar" Onclick="window.location.href='{{ site.baseurl }}/1parte/'">
+<INPUT Type="BUTTON" align="left" Value="Próxima aula &raquo;" Onclick="window.location.href='{{ site.baseurl }}/arvores/2015/04/18/aula21.html'">
 </FORM>
