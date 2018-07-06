@@ -12,5 +12,5 @@ categories: svm
 
 
 <FORM>
-<INPUT Type="BUTTON" align="left" Value="&laquo; Voltar" Onclick="window.location.href='https://eduardoleg.github.io/ML4all/1parte/'">
+<INPUT Type="BUTTON" align="left" Value="&laquo; Voltar" Onclick="window.location.href='{{ site.baseurl }}/1parte/'">
 </FORM>
